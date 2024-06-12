@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -u One line, one word One line, one word
+uniq -c One line, one word One line, one word
